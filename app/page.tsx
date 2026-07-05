@@ -579,6 +579,43 @@ export default function Page() {
           <span>All Rights Reserved.</span>
         </div>
       </footer>
+            {/* WhatsApp Floating Button */}
+      <a
+        href="https://wa.me/60177148883?text=Hello%20DELTA%20T%20MANUFACTURING%20SDN.%20BHD.%2C%20I%20would%20like%20to%20ask%20about%20printing%20services."
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{
+          position: "fixed",
+          right: 22,
+          bottom: 22,
+          zIndex: 999,
+          display: "inline-flex",
+          alignItems: "center",
+          justifyContent: "center",
+          gap: 10,
+          height: 58,
+          padding: "0 20px",
+          borderRadius: 999,
+          background: "#25D366",
+          color: "white",
+          fontSize: 15,
+          fontWeight: 850,
+          textDecoration: "none",
+          boxShadow: "0 22px 55px rgba(37, 211, 102, 0.35)",
+          border: "1px solid rgba(255,255,255,0.35)",
+        }}
+      >
+        <span
+          style={{
+            width: 12,
+            height: 12,
+            borderRadius: 999,
+            background: "white",
+            display: "inline-block",
+          }}
+        />
+        WhatsApp
+      </a>
     </main>
   );
 }
