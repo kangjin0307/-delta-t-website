@@ -1,0 +1,12 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1ikoify._.js")
+R.c("server/chunks/ssr/18yu_next_dist_esm_build_templates_app-page_06cimrn.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1pg0vy_._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__1vyiujk._.js")
+R.c("server/chunks/ssr/delta-t-website-v1_app_layout_tsx_118euqo._.js")
+R.c("server/chunks/ssr/18yu_next_dist_client_components_0f9bda-._.js")
+R.c("server/chunks/ssr/18yu_next_dist_client_components_builtin_forbidden_19lu809.js")
+R.c("server/chunks/ssr/18yu_next_dist_client_components_builtin_unauthorized_1zuwqwg.js")
+R.c("server/chunks/ssr/delta-t-website-v1__next-internal_server_app__not-found_page_actions_0n_sipr.js")
+R.m(42361)
+module.exports=R.m(42361).exports
