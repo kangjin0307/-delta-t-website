@@ -24,7 +24,7 @@ import styles from "./OrderForm.module.css";
   Malaysia: 60 + 手机号码，前面不要 0
   例子：012-3456789 -> 60123456789
 */
-const WHATSAPP_NUMBER = "60123456789";
+const WHATSAPP_NUMBER = "60177148883";
 
 const preparationItems = [
   "Product type selected",
