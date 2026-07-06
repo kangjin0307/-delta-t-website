@@ -458,8 +458,8 @@ export default function Page() {
         </div>
       </section>
 
-       <MapSection />
-      
+      <MapSection />
+
       {/* Footer 2.0 */}
       <footer
         style={{
@@ -544,23 +544,33 @@ export default function Page() {
             >
               Products
             </a>
+
             <a
               href="#order"
               style={{ color: "#cbd5e1", textDecoration: "none" }}
             >
               Order
             </a>
+
             <a
               href="#process"
               style={{ color: "#cbd5e1", textDecoration: "none" }}
             >
               Process
             </a>
+
             <a
               href="#contact"
               style={{ color: "#cbd5e1", textDecoration: "none" }}
             >
               Contact
+            </a>
+
+            <a
+              href="#location"
+              style={{ color: "#cbd5e1", textDecoration: "none" }}
+            >
+              Location
             </a>
           </div>
         </div>
@@ -583,6 +593,7 @@ export default function Page() {
           <span>All Rights Reserved.</span>
         </div>
       </footer>
+
       {/* Premium WhatsApp Floating Button */}
       <a
         href="https://wa.me/60177148883?text=Hello%20DELTA%20T%20MANUFACTURING%20SDN.%20BHD.%2C%20I%20would%20like%20to%20ask%20about%20printing%20services."
