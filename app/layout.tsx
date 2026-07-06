@@ -17,8 +17,15 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "DELTA T MANUFACTURING SDN. BHD." }],
   creator: "DELTA T MANUFACTURING SDN. BHD.",
-  publisher: "DELTA T MANUFACTURING SDN. BHD.",
-  openGraph: {
+ publisher: "DELTA T MANUFACTURING SDN. BHD.",
+
+icons: {
+  icon: "/favicon.svg?v=200",
+  shortcut: "/favicon.svg?v=200",
+  apple: "/favicon.svg?v=200",
+},
+
+openGraph: {
     title: "DELTA T MANUFACTURING SDN. BHD.",
     description:
       "Professional printing for Sticker, Label, Name Card and Menu orders in Johor Bahru, Malaysia.",
