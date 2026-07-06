@@ -3308,41 +3308,130 @@ function Page() {
                 href: "https://wa.me/60177148883?text=Hello%20DELTA%20T%20MANUFACTURING%20SDN.%20BHD.%2C%20I%20would%20like%20to%20ask%20about%20printing%20services.",
                 target: "_blank",
                 rel: "noopener noreferrer",
+                "aria-label": "Chat with DELTA T MANUFACTURING SDN. BHD. on WhatsApp",
                 style: {
                     position: "fixed",
                     right: 22,
                     bottom: 22,
-                    zIndex: 999,
+                    zIndex: 9999,
                     display: "inline-flex",
                     alignItems: "center",
-                    justifyContent: "center",
-                    gap: 10,
-                    height: 58,
-                    padding: "0 20px",
+                    gap: 13,
+                    padding: "12px 17px 12px 12px",
                     borderRadius: 999,
-                    background: "#25D366",
+                    background: "linear-gradient(135deg, rgba(2, 6, 23, 0.92), rgba(15, 23, 42, 0.9), rgba(30, 41, 59, 0.9))",
                     color: "white",
-                    fontSize: 15,
-                    fontWeight: 850,
                     textDecoration: "none",
-                    boxShadow: "0 22px 55px rgba(37, 211, 102, 0.35)",
-                    border: "1px solid rgba(255,255,255,0.35)"
+                    border: "1px solid rgba(255, 255, 255, 0.16)",
+                    boxShadow: "0 24px 70px rgba(15, 23, 42, 0.34), inset 0 1px 0 rgba(255, 255, 255, 0.12)",
+                    backdropFilter: "blur(18px)",
+                    WebkitBackdropFilter: "blur(18px)"
                 },
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                         style: {
-                            width: 12,
-                            height: 12,
+                            width: 42,
+                            height: 42,
                             borderRadius: 999,
-                            background: "white",
-                            display: "inline-block"
-                        }
+                            display: "inline-flex",
+                            alignItems: "center",
+                            justifyContent: "center",
+                            background: "linear-gradient(135deg, rgba(37, 211, 102, 0.18), rgba(34, 197, 94, 0.08))",
+                            border: "1px solid rgba(37, 211, 102, 0.32)",
+                            boxShadow: "inset 0 1px 0 rgba(255, 255, 255, 0.16)"
+                        },
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                            width: "21",
+                            height: "21",
+                            viewBox: "0 0 32 32",
+                            fill: "none",
+                            xmlns: "http://www.w3.org/2000/svg",
+                            "aria-hidden": "true",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M16.02 3C8.84 3 3 8.73 3 15.77c0 2.41.7 4.68 1.9 6.59L3.73 29l6.85-1.78A13.2 13.2 0 0 0 16.02 28C23.2 28 29 22.27 29 15.23S23.2 3 16.02 3Z",
+                                    fill: "#25D366"
+                                }, void 0, false, {
+                                    fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                                    lineNumber: 631,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                    d: "M22.9 19.14c-.3.83-1.55 1.52-2.19 1.62-.58.09-1.31.13-2.12-.13-.49-.16-1.12-.36-1.92-.7-3.38-1.45-5.58-4.8-5.75-5.02-.16-.22-1.37-1.82-1.37-3.48 0-1.66.87-2.47 1.18-2.81.3-.34.66-.43.88-.43h.63c.2.01.48-.08.75.57.3.72 1.02 2.49 1.11 2.67.09.18.15.4.03.63-.12.23-.18.37-.36.57-.18.21-.38.46-.54.62-.18.18-.37.38-.16.75.21.37.94 1.55 2.02 2.51 1.39 1.23 2.56 1.61 2.93 1.79.37.18.58.15.8-.09.21-.25.92-1.07 1.17-1.44.24-.37.49-.31.83-.18.34.12 2.15 1.01 2.52 1.19.37.18.61.28.7.43.09.15.09.86-.21 1.69Z",
+                                    fill: "white"
+                                }, void 0, false, {
+                                    fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                                    lineNumber: 635,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                            lineNumber: 623,
+                            columnNumber: 11
+                        }, this)
                     }, void 0, false, {
                         fileName: "[project]/delta-t-website-v1/app/page.tsx",
-                        lineNumber: 608,
+                        lineNumber: 609,
                         columnNumber: 9
                     }, this),
-                    "WhatsApp"
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                        style: {
+                            display: "grid",
+                            gap: 4,
+                            lineHeight: 1.05
+                        },
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                style: {
+                                    display: "inline-flex",
+                                    alignItems: "center",
+                                    gap: 7,
+                                    color: "white",
+                                    fontSize: 14,
+                                    fontWeight: 850,
+                                    letterSpacing: "-0.02em"
+                                },
+                                children: [
+                                    "WhatsApp Quote",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        style: {
+                                            width: 7,
+                                            height: 7,
+                                            borderRadius: 999,
+                                            background: "#22c55e",
+                                            boxShadow: "0 0 0 5px rgba(34, 197, 94, 0.13)"
+                                        }
+                                    }, void 0, false, {
+                                        fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                                        lineNumber: 661,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                                lineNumber: 649,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$delta$2d$t$2d$website$2d$v1$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                style: {
+                                    color: "#cbd5e1",
+                                    fontSize: 12,
+                                    fontWeight: 650,
+                                    letterSpacing: "-0.01em"
+                                },
+                                children: "Fast printing enquiry"
+                            }, void 0, false, {
+                                fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                                lineNumber: 672,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/delta-t-website-v1/app/page.tsx",
+                        lineNumber: 642,
+                        columnNumber: 9
+                    }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/delta-t-website-v1/app/page.tsx",

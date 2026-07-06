@@ -3,6 +3,7 @@
 import Hero from "../components/Hero";
 import ProductList from "../components/ProductList";
 import OrderForm from "../components/OrderForm";
+import MapSection from "../components/MapSection";
 
 export default function Page() {
   return (
@@ -17,6 +18,7 @@ export default function Page() {
             <a href="#order">Order</a>
             <a href="#process">Process</a>
             <a href="#contact">Contact</a>
+            <a href="#location">Location</a>
             <a href="#order" className="btn primary">
               Start Order
             </a>
@@ -456,6 +458,8 @@ export default function Page() {
         </div>
       </section>
 
+       <MapSection />
+      
       {/* Footer 2.0 */}
       <footer
         style={{
